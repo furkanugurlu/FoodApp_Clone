@@ -1,0 +1,7 @@
+export { default as ChevronLeft } from './ChevronLeft'
+export { default as ChevronRight } from './ChevronRight'
+export { default as Gift } from './Gift'
+export { default as Menu } from './Menu'
+export { default as Plus } from './Plus'
+export { default as Search } from './Search'
+export { default as Star } from './Star'
